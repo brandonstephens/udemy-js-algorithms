@@ -6,3 +6,7 @@ Add Scripts for exercises in `./src/`
 
 1. `nvm use`
 2. `node ./src/{name_o_script}.js`
+
+Run code in VSCode:
+
+1. `control + option + n`
