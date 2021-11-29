@@ -30,8 +30,6 @@ function naiveStringSearch(str, pattern) {
 ///////////////////////////////////////////////////////////////////////////////
 // Tests
 ///////////////////////////////////////////////////////////////////////////////
-
-// tests here
 isTrue(naiveStringSearch("omgzsadfomgasdf", "omg") === 2);
 isTrue(naiveStringSearch("omgzsadfomgasdf", "poop") === 0);
 isTrue(naiveStringSearch("lorie loled", "lol") === 1);
